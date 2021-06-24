@@ -1,5 +1,7 @@
 # dirp - a directory enumeration tool written in Rust
 
+![](logo.png)
+
 ANOTHER FAIRLY USELESS RUST TOOL BAYBEE
 
 ## Usage
