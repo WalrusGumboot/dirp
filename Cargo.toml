@@ -1,0 +1,15 @@
+[package]
+name = "dirp"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3.21"
+tokio = { version = "1", features = ["full"] }
+indicatif = "0.16.2"
+linecount = "0.1.0"
+reqwest = { version = "0.11.4", features = ["blocking"] }
+termion = "1.5.6"
+hhmmss = "0.1.0"
